@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Studiomaster 
 
-## Getting Started
+**Studiomaster** is a next-gen **blog and tech-focused social media platform** where creators can share articles, explore trending posts, and connect with a like-minded community.  
+It combines the simplicity of writing on Medium with the engagement of social platforms — all powered by modern web technologies and an **AI-powered inbuilt editing studio**.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+### ✍️ Content Creation
+- **AI-Powered Studio** – Easily create and edit articles with smart assistance.
+- **ImageKit Integration** – Add stunning visuals with:
+  - Background removal  
+  - Drop shadow  
+  - Smart cropping  
+  - Aspect ratio adjustment  
+  - Text overlay  
+  - And much more  
+
+### 🌐 Social Features
+- Dynamic **News Feed** with **For You** and **Trending** tabs.  
+- **Follow**, **Like**, and **Comment** on other creators’ posts.  
+- Personalized user suggestions to help discover new creators and content.
+
+### 📊 Analytics Dashboard
+- Track post engagement and growth with in-depth analytics:
+  - Likes, Views, Comments  
+  - Follower count & recent activity  
+  - Daily stats & growth charts  
+
+### 👥 Community Management
+- Manage your **followers** and **following** lists.  
+- Build a thriving creator network and engage in meaningful tech discussions.
+
+### 💻 Tech Stack
+- ⚡ **Next.js** – Fast and SEO-friendly React framework  
+- 🎨 **ShadCN UI** – Modern and elegant UI components  
+- 🖼️ **ImageKit** – Advanced image optimization and editing  
+- 🔥 **Firebase / Supabase** – Authentication and data management  
+
+---
+
+## 🧩 How It Works
+
+1. **Set Your Username** – Create your profile identity.  
+2. **Create & Publish** – Write and edit posts with the inbuilt AI studio.  
+3. **Engage** – Follow, read, comment, and like others’ posts.  
+4. **Analyze** – Monitor your reach and performance via analytics.  
+
+---
+
+## 📱 UI & Design
+
+A fully **responsive**, **modern**, and **beautiful interface** built using **Next.js** and **ShadCN UI**, offering smooth performance across all devices.
+
+---
+
+## 🧑‍💻 Getting Started
 
 ```bash
+# Clone the repository
+git clone https://github.com/yourusername/studiomaster.git
+
+# Navigate into the project
+cd studiomaster
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
