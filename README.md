@@ -1,4 +1,4 @@
-# Studiomaster 
+# Studiomaster (in progress)
 
 **Studiomaster** is a next-gen **blog and tech-focused social media platform** where creators can share articles, explore trending posts, and connect with a like-minded community.  
 It combines the simplicity of writing on Medium with the engagement of social platforms — all powered by modern web technologies and an **AI-powered inbuilt editing studio**.
